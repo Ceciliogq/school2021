@@ -8,6 +8,8 @@ dependencies:
   - conda-build
   - cython
   - gammapy
+  - gwosc
+  - gwpy
   - h5py
   - iminuit<2.0
   - ipython
@@ -19,6 +21,7 @@ dependencies:
   - numpy
   - pandas
   - pip
+  - pycbc
   - pytables
   - pytest
   - pytest-cov
