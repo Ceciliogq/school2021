@@ -1,4 +1,4 @@
-# ESCAPE data science summer school 2021 Testing
+# ESCAPE data science summer school 2021
 
 All information on the school may be found on the main page:     
 https://indico.in2p3.fr/event/20306/
